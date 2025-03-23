@@ -144,5 +144,9 @@
     {
         "key": "ctrl+alt+v",
         "command": "toggleVim"
+    },
+    {
+        "key": "alt+g",
+        "command": "git.cloneRecursive"
     }
 ]

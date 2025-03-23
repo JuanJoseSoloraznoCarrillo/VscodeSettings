@@ -79,6 +79,7 @@
     "git.autofetchPeriod": 300,
     "git.detectSubmodules": true,
     "git.ignoreSubmodules": false,
+    "git.cloneRecursive": true,
     "github-enterprise.uri": "https://github.vitesco.io/",
     "gitlens.ai.model": "vscode",
     "gitlens.ai.vscode.model": "copilot:gpt-3.5-turbo",
