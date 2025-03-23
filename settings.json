@@ -58,7 +58,7 @@
     "terminal.integrated.profiles.windows": {
         "PowerShell": {
             "path": "C:\\LegacyApp\\powershell\\pwsh.exe",
-            "args": [-NoExit],
+            "args": [],
             "icon": "terminal-powershell",
             "name": "PWSH"
         }
