@@ -74,6 +74,11 @@
     "csharp.inlayHints.enableInlayHintsForTypes": true,
     // Git/GitHub/GitLens settings.
     "git.autofetch": true,
+    "git.confirmSync": true,
+    "git.enableSmartCommit": true,
+    "git.autofetchPeriod": 300,
+    "git.detectSubmodules": true,
+    "git.ignoreSubmodules": false,
     "github-enterprise.uri": "https://github.vitesco.io/",
     "gitlens.ai.model": "vscode",
     "gitlens.ai.vscode.model": "copilot:gpt-3.5-turbo",
@@ -84,4 +89,16 @@
     ],
     // C/C++ settings.
     "C_Cpp.default.compilerPath": "c:\\LegacyApp\\mingw\\20200128\\bin\\bin\\gcc.exe",
+    "gitlens.views.scm.grouped.views": {
+        "commits": true,
+        "branches": true,
+        "remotes": true,
+        "stashes": true,
+        "tags": true,
+        "worktrees": true,
+        "contributors": true,
+        "repositories": true,
+        "searchAndCompare": false,
+        "launchpad": false
+    },
 }
