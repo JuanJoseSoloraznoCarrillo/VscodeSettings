@@ -1,9 +1,13 @@
-{   // General Settings.
-    //"vim.disableExtension": true, // Disable Vim extension
+// Author: Solorzano, Juan Jose
+// Date: 22/03/2025
+// Description: This file contains user-specific settings for Visual Studio Code.
+// You can customize various aspects of the editor, workbench, and extensions here.
+{
+    //"vim.disableExtension": true, // Disable Vim extension. Uncomment this line to disable the Vim extension when opening VS Code.
     "telemetry.telemetryLevel": "off",
     "telemetry.enableCrashReporter": false, // Disable crash reporter to avoid sending data to Microsoft.
     "security.workspace.trust.untrustedFiles": "open",
-    //Editor settings.
+    // Editor settings.
     "editor.minimap.autohide": true,
     "editor.fontSize": 16,
     "editor.accessibilitySupport": "off",
@@ -31,10 +35,10 @@
         "*.pdf": "default"
     },
     // Python settings.
-    "python.defaultInterpreterPath": "C:\\LegacyApp\\Python27_x64\\python.exe",
+    "python.defaultInterpreterPath": "C:\\LegacyApp\\Python39\\python.exe",
     "python.analysis.inlayHints.functionReturnTypes": true,
     "python.experiments.enabled": false,
-    "files.associations":{"*.py": "python"},
+    "files.associations": {"*.py": "python"},
     "autoDocstring.includeName": true,
     "autoDocstring.customTemplatePath": "D:\\p_ta3\\docstrings_template\\custom_template.txt",
     "jupyter.debugJustMyCode": false,
