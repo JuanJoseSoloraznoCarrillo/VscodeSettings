@@ -48,16 +48,8 @@
     ```
     # -*- coding: UTF-8 -*-
     # ************************************************************************************************************#
-    # COPYRIGHT (C) Vitesco Technologies                                                                          #
-    # ALL RIGHTS RESERVED.                                                                                        #
-    #                                                                                                             #
-    # The reproduction, transmission or use of this document or its                                               #
-    # contents is not permitted without express written authority.                                                #
-    # Offenders will be liable for damages. All rights, including rights                                          #
-    # created by patent grant or registration of a utility model or design,                                       #
-    # are reserved.                                                                                               #
     # ------------------------------------------------------------------------------------------------------------#
-    # Purpose:    Test Automation Framework                                                                       #
+    # Purpose:    Test Automation                                                                                 #
     # ************************************************************************************************************#
     # Tool chain: $Python:    >3.9                                                                                #
     # Filename:   $WorkFile:  <module_name>.py                                                                    #
@@ -69,7 +61,7 @@
     # Module information:                                                                                         #
     # ------------------------------------------------------------------------------------------------------------#
     # Revisions:                                                                                                  #
-    # [$Date] - <developer_name> (UID) - File creation.                                                           #
+    # [$Date] - <developer_name> (ID) - File creation.                                                           #
     # ************************************************************************************************************#
     ```
     Ensure the `Date` field in the file header is automatically updated to the current date.
